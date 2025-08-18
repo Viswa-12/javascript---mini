@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.topContainer {
+    height: 25vh;
+    width: 100%;
+    background-color: #2d3a8c;
+}
+
+.topHeading {
+    font-size: 25px;
+    color: #fff;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+.bottomContainer {
+    height: 70vh;
+    border-radius: 18px;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: -15px;
+}
+
+.formHeading {
+    font-size: 20px;
+    color: #7b8794;
+}
+
+.bookmarkForm {
+    background-color: #e4e7eb;
+    padding: 25px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 15px;
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.errorMessage {
+    color: #dc3545;
+}
+
+.bookmarklist {
+    background-color: #f5f7fa;
+    text-decoration: none;
+    list-style: none;
+    padding: 10px 20px;
+    margin-left: -30px;
+    border-radius: 16px;
+    margin-bottom: 15px;
+}
