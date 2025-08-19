@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bgContainer {
+    background-color: #dac0ff;
+    height: 160vh;
+    padding: 20px;
+}
+
+.mainHeading {
+    color: #690cb0;
+    font-weight: bold;
+}
+
+.firstPara {
+    color: #3e4c59;
+}
+
+.clockImage {
+    width: 40px;
+    height: 40px;
+}
+
+.timer {
+    font-size: 35px;
+}
+
+.contentDisplay {
+    background-color: #f3eaff;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+#submitBtn {
+    background-color: #690cb0;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px 12px;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 85px;
+    border: 0;
+}
+
+#resetBtn {
+    background-color: #fff;
+    color: black;
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 5px 12px;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 85px;
+    border: 0;
+}
